@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.getTopTwoReviews = exports.makeMultiple = exports.showDetails = exports.populateUser = exports.showReviewTotal = void 0;
 const reviewTotalDisplay = document.querySelector('#reviews');

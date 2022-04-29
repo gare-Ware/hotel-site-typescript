@@ -1,4 +1,4 @@
-"use strict";
+// "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.LoyaltyUser = exports.Permissions = void 0;
 var Permissions;
